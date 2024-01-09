@@ -42,4 +42,6 @@ crypto algorithms to encrypt the data that is transmitted – it uses TCP port 2
 AWS by default. Most of these terminologies will make more sense to you as you proceed. So for now, if nothing makes sense, just 
 ignore. But be assured that the information is already registered in your sub-conscious mind. So it will become useful to you soon.
 
+![projject1-step0](https://user-images.githubusercontent.com/85270361/210112007-5cd14a18-8aaa-4c7a-857e-b18400535bdd.PNG)
+
 
