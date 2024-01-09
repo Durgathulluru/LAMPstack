@@ -33,7 +33,7 @@ launch EC2
 IMPORTANT – save your private key (.pem file) securely and do not share it with anyone! If you lose it, you will not be able to
 connect to your server ever again!
 
-For Windows users, you will need a tool called putty to connect to your EC2 Instance. Download Putty Here.
+For Windows users, you will need a tool called putty to connect to your EC2 Instance. Download Putty Here: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html.
 For Mac users, you can simply open up Terminal and use the ssh command to get into the server.
 
 IMPORTANT NOTICE
